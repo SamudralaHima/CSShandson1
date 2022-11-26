@@ -1,0 +1,43 @@
+h1{
+    color:red
+}
+h3{
+   color: orangered;
+   font-style: italic;
+}
+.a{
+    color: maroon;
+    line-height: 35px;
+}
+
+.b{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+.c{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.d{
+    text-decoration: underline;
+}
+
+.e{
+   color: maroon;
+   letter-spacing: 3px;
+}
+
+.f{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.g{
+    color: maroon;
+}
+
+.h{
+    background-color: yellow;
+}

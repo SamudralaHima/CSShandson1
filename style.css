@@ -39,6 +39,7 @@ h3{
 }
 
 .h{
+    font-style: italic;
     background-color: yellow;
-   text-decoration: none;
+    text-decoration: none;
 }
